@@ -1,4 +1,4 @@
-# GestureGroove
+# GestoTunes 
 
 
 GestoTunes lets you control your playlist using gestures – 
