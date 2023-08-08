@@ -3,15 +3,15 @@
 
 GestoTunes lets you control your playlist using gestures – 
 
-Index - Open The Playlist
+Index Finger - Open The Playlist
 
-Index + Thumb - Next song
+Index Finger + Thumb - Next song
 
-Pinky + Thumb - Previous Song
+Pinky Finger + Thumb - Previous Song
 
 Fist - Play/Pause
 
-Index + Pinky - Disable Hand Controls
+Index Finger + Pinky Finger- Disable Hand Controls
 
 Pinky - Enable Hand Controls
 
